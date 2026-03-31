@@ -16,3 +16,7 @@ This repo contains Week 1 homework for the JHU Caret ISAI Generative AI course. 
 | `7e6cdaf` | edit final version |
 | `ab65530` | edit assistant_draft |
 | `6dff61d` | Initial commit: add README, assistant_draft, and final_version |
+
+---
+
+video link: https://youtu.be/ZVE9wZ6jqsM
